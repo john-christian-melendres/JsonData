@@ -3,11 +3,13 @@
   [
     {
        "name":"mango",
-       "price": 3
+       "price": 3,
+      "purchaseQuantity": 0 
     },
     {
        "name":"banana",
-       "price": 4
+       "price": 4,
+      "purchaseQuantity": 0 
     }
   ]
 }
