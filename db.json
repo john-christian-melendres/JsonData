@@ -1,10 +1,13 @@
 {
-  { 
-    name:"mango" ,
-    price: 3
-  },
-   { 
-    name:"banana" ,
-    price: 5
-  },
+  "products":
+  [
+    {
+       "name":"mango",
+       "price": 3
+    },
+    {
+       "name":"banana",
+       "price": 4
+    }
+  ]
 }
