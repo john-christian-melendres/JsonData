@@ -5,13 +5,11 @@
       "id": 1,
       "name":"mango",
       "price": 3,
-      "purchaseQuantity": 0 
     },
     {
       "id": 1,
       "name":"banana",
       "price": 4,
-      "purchaseQuantity": 0 
     }
   ]
 }
