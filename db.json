@@ -3,13 +3,33 @@
   [
     {
       "id": 0,
-      "name":"mango",
-      "price": 3
+      "name":"product",
+      "price": 1
     },
     {
       "id": 1,
-      "name":"banana",
+      "name":"product1",
+      "price": 1
+    },
+    {
+      "id": 2,
+      "name":"product2",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "name":"product3",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "name":"product4",
       "price": 4
+    },
+    {
+      "id": 5,
+      "name":"product5",
+      "price": 5
     }
   ]
 }
