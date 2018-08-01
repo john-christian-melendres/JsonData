@@ -3,37 +3,37 @@
   [
     {
       "id": 0,
-      "name":"product0",
+      "name":"Sample Product 0",
       "price": 100
     },
     {
       "id": 1,
-      "name":"product1",
+      "name":"Sample Product 1",
       "price": 100
     },
     {
       "id": 2,
-      "name":"product2",
+      "name":"Sample Product 2",
       "price": 200
     },
     {
       "id": 3,
-      "name":"product3",
+      "name":"Sample Product 3",
       "price": 300
     },
     {
       "id": 4,
-      "name":"product4",
+      "name":"Sample Product 4",
       "price": 400
     },
     {
       "id": 5,
-      "name":"product5",
+      "name":"Sample Product 5",
       "price": 500
     },
     {
       "id": 6,
-      "name":"product6",
+      "name":"Sample Product 6",
       "price": 600
     }
   ]
