@@ -30,11 +30,6 @@
       "id": 5,
       "name":"product5",
       "price": 500
-    },
-    {
-      "id": 6,
-      "name":"product6",
-      "price": 600
     }
   ]
 }
