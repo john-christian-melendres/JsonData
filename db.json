@@ -35,6 +35,11 @@
       "id": 6,
       "name":"Sample Product 6",
       "price": 600
+    },
+	{
+      "id": 7,
+      "name":"Sample Product 6",
+      "price": 600
     }
   ]
 }
